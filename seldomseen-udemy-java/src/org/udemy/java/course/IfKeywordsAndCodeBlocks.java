@@ -12,7 +12,7 @@ public class IfKeywordsAndCodeBlocks {
         int bonus = 100;
         //test result against variable
         //can also remove brackets arouns if & system, but can't add another line after System.out. only use when only single block of code
-        /*
+        
             if(score1 == 5000) {
                 System.out.println("Your score was 5000");
                 System.out.println("This was executed");
@@ -29,6 +29,6 @@ public class IfKeywordsAndCodeBlocks {
             } else {
                 System.out.println("Got here"); //#4
             }        
-            */
+            
     }
 }
